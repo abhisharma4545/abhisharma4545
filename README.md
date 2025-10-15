@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a passionate Java developer with experience in buildin
 ## 📂 Projects  
 
 ### 🔹 [Attendance Management System](https://github.com/abhisharma4545/attendance-management-system)  
-Spring Boot + Spring Security + MySQL + Thymeleaf-based project to manage student attendance.  
+Spring Boot + MySQL + Thymeleaf-based project to manage student attendance.  
 
 ### 🔹 [Shree Airlines (Internship Project)](https://github.com/abhisharma4545/shree-airlines)  
 Spring Boot + REST APIs + MySQL — Booking workflows handling 10,000+ records.  
